@@ -1,2 +1,4 @@
 test3
 more test3
+
+new things in file3
